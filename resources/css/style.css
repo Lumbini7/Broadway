@@ -4,18 +4,25 @@ div {
 
 .link {
       font-family: Helvetica;
-      font-size: 70px;
+      font-size: 18px;
       font-weight: bold;
       color: white;
 }
 
 # top-background {
-                   background-image: url("./resources/images/flatironbuildingImage.png");
+                   background-image: url("./images/flatironbuildingImage.png");
 }
 
 .process {
            font-family: Helvetica;
            font-size: 32px;
            font-weight: bold;
-           
+
+}
+
+h1 {
+     font-family: Helvetica;
+     font-size: 70px;
+     font-weight: bold;
+     
 }
